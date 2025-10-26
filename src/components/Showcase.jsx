@@ -60,9 +60,14 @@ export default function Showcase() {
                 hardware-accelerated ray tracing brings console-level graphics
                 to your fingertips.
               </p>
-              <p className="text-primary">
-                Learn more about Apple Intelligence
-              </p>
+            <a 
+              href="https://www.apple.com/apple-intelligence/" 
+              className="text-primary hover:underline"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Learn more about Apple Intelligence
+            </a>
             </div>
           </div>
 
